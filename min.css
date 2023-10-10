@@ -1,0 +1,21 @@
+*{
+    /* outline: 1px solid red ; */
+    font-family: 'Poppins', sans-serif;
+}
+/* .bg{
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(10px); */
+} */
+
+.gg{
+    position: relative;
+}
+
+.ff{
+    position: absolute;
+   top: 90px;
+   left: 680px;
+   display: flex;
+   justify-content: center;
+}
